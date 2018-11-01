@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main {
+    margin: 8px;
+    width: 400px;
+}
+
+
+table{
+
+}
+td{
+
+}
+input{
+    width: 99px;
+    height: 40px;
+}
+
+
+#rezultInput{
+    width: 397px;
+    margin-left: 2px;
+    text-align: right;
+    padding-right: 2px;
+}
+
+
+.memory input{
+    width: 79px;
+}
+
+
